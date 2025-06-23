@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Setup Next.js project",
+    "description": "Initialize a new Next.js app with TypeScript and Tailwind CSS",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "name": "Build todo components",
+    "description": "Create reusable components for todo items and forms",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "name": " ",
+    "description": "Add local storage or database integration for todo data",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "name": "Add filtering and sorting",
+    "description": "Implement filters for completed/pending todos and sorting options",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "name": "Style the application",
+    "description": "Apply modern UI design with responsive layout and animations",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "name": "Add user authentication",
+    "description": "Implement login/signup functionality with user-specific todos",
+    "completed": false
+  }
+] 
